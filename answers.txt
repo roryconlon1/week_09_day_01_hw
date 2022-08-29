@@ -29,3 +29,7 @@ When calling an API can call a method on it also ie GET POST etc depending on wh
 8.  What are we using the MongoDB Driver for?
 
 To retrieve information from a database stored in mongodb, through promises or callbacks.
+
+9. Why do we need to use ObjectId from the MongoDB driver?
+
+It is uniquie ID for each object so can call a specific ID and from that ID can find, update, delete the object values etc.
